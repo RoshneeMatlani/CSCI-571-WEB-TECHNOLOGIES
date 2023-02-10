@@ -6,4 +6,17 @@
 
 2. Using 6+ APIs and Google Cloud App Engine, I created a multimodal application for identifying nearby businesses ranging from bars, restaurants, and cafes to hairdressers, spas, and petrol stations.
 
-[Yelp Businesses](https://youtu.be/pOB8JBoDmX0)
+
+## Yelp Android App To Locate Businesses
+
+#### Video - [Yelp Businesses](https://youtu.be/pOB8JBoDmX0).
+
+Tech Stack -
+```
+- Java, JSON, Android Lifecycle, and Android Studio for Android app development.
+- Google’s Material design rules for designing Android apps
+- Finnhub APIs and the Android SDK.
+- Third-party libraries like Picasso, Glide, and Volley.
+- Google API and Yelp Fusion API.
+- Google Cloud Platform (GCP).
+```
